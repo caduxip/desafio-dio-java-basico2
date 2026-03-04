@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para o desafio **Controle de Fluxo** da trilha de Java básico da DIO.
 
-Repositório no GitHub: [git@github.com:caduxip/desafio-dio-java-basico2.git](git@github.com:caduxip/desafio-dio-java-basico2.git)
+Link oficial do desafio: [https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
 
 ## Objetivo
 
